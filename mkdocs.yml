@@ -1,1 +1,8 @@
 site_name: NMTrails Docs
+nav:
+  - 'index.md'
+  - Github: https://github.com/cyrusmcc/nmtrails-backend
+theme:
+  name: 'readthedocs'
+  features:
+    - navigation.expand
